@@ -1,4 +1,4 @@
-install GO
+install GO https://go.dev/doc/install
 
 Create a directory.
 For example, use the following commands:
